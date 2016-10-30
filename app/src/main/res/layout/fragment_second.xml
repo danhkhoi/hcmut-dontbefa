@@ -1,0 +1,56 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:weightSum="100"
+    android:id="@+id/main_layout"
+    android:layout_height="match_parent" tools:context="dontbefa.hcmut.dontbefa.SecondFragment">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="85"
+        android:background="#d3d3d3">
+        <com.daimajia.slider.library.SliderLayout
+            android:id="@+id/image_browser_slider"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="15"
+        android:background="#d3d3d3">
+        <LinearLayout
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <at.markushi.ui.CircleButton
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:elevation="3dp"
+                android:src="@drawable/nope"
+                app:cb_color="#FFFFFF"
+                app:cb_pressedRingWidth="8dp" />
+            <at.markushi.ui.CircleButton
+                android:id="@+id/btn_yes"
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:elevation="3dp"
+                android:src="@drawable/yes"
+                app:cb_color="#FFFFFF"
+                app:cb_pressedRingWidth="8dp" />
+            <at.markushi.ui.CircleButton
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:elevation="3dp"
+                android:src="@drawable/star"
+                app:cb_color="#FFFFFF"
+                app:cb_pressedRingWidth="8dp" />
+        </LinearLayout>
+    </FrameLayout>
+
+</LinearLayout>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "120094812585",
+    "firebase_url": "https://dont-be-fa.firebaseio.com",
+    "project_id": "dont-be-fa",
+    "storage_bucket": "dont-be-fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120094812585:android:7b26ce2fed551abf75",
+        "android_client_info": {
+          "package_name": "dontbefa.hcmut.dontbefa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120094812585-ct3pev6huj0v2q804sr5g6pga3ommtmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI9slwJ04regYSNQnU5j8BUMBrwDOC5o8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

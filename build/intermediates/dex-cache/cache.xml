@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.0_0c31d58b43340a1d8378949aba8f222ecce005f6\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.yahoo.mobile.client.android.util.rangeseekbar\rangeseekbar-library\0.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c365e428c4190791856e37f7fcee4261fd46632f">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.yahoo.mobile.client.android.util.rangeseekbar-rangeseekbar-library-0.1.0_b979bb1d9d0e6a965a1142372ce8e7a778a8ac62\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_5a9ea77f62911e28837234623783dfe56d323d1a\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_bf9b4f34213063d84c4eb9bf9c8706f66ecfcf5a\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.android.support\palette-v7\21.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b65c2fede61220ed2b6a063f11ca13160910089e">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-21.0.0_c07e5350dc3f56472d218934c78864cc310f5944\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e692dff60dccaaf0780d1c900affa664514ff673">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_016ece529c7d60fe4db988b723bdbc5896e4cf64\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.2_004964387ba323e20d5866066a289e6ab2a20d62\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.github.dmytrodanylyk.android-process-button\library\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="345a03c0e95969cbbf1e2900e29871b98d71f4cb">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.dmytrodanylyk.android-process-button-library-1.0.0_e3fbacc5c5ec8a1fb61c3bc29abb859a01fd7968\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danhk\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_b7c2ad0cd3b1a5c88572ffeefdceb75588c4de93\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_1801c44e8ea0b018b1ea384bf766891715fea70c\classes.dex" />
+    </item>
+    <item
+        jar="D:\App\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_e2e37f508b1c900c8081697e9b803a5b92ee45e7\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.2_839d99970bc26e78f06e9b1574743d37da7bd9df\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danhk\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_6cf497d4578acb028305db1412044c29373300ba\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.2_2e14af7955f43e81d08f056f8c4d9b8c5a088915\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_1be809d01cc91c42fc5732cb3c6e48ceba955a12\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.2_2511925467effccd03912ea6a7f045a59302641f\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.github.markushi\circlebutton\1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ebe3b1f14fa79ba3cd1588acda4e6517ee9fe611">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.markushi-circlebutton-1.1_068100b22177f2f539d04778a391d6264df84edb\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.0_b38f7430632bbaedc0ee415c71a071a55e726d5d\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_bf2f4a5c194ce5c9cbb1586426b6d820d6115114\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.slider-library-1.1.5_c6d2d81e57abf5383e17085c1311cc0484066921\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.2_df05bafa21ca9c820877bd1b1504f9eea7a199fa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\danhk\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.0_ad1cfcbd0abbb669df4bceb20d8a85622d7b03fc\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_31dbcde12b663e343a530233d6cd257522c610bc\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.2_24f30310cea2cfd6ca268669a637281c03c93d58\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_f961d35cc7e1f0dfbc0161d915a4ad0b061a288e\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_90a59fec6af2a3da7642203d071f8318c63980db\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_4795ed0761d98a4fd6d0132390f4a7089b4db6e8\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.2_2e0babf92776b9a1dd5f349921e6c159e4a15cfa\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.2_7e148be4f4a7dbe90b0f2257c3b5fbbc2a38b7c0\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.2_402a302f8272b9a2273b4347338affa2113e4afd\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d4b02246c16887e503f3d760de54df47a79bfb9b">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2e1152905dd7e83f7db9bb02ba963b71d33aa6bc\classes.dex" />
+    </item>
+    <item
+        jar="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="D:\Workspace\Android\Don&apos;tbeFA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-21.0.3_e2b623e1f9cf64c63f12864b4e4c690bb9de933b\classes.dex" />
+    </item>
+
+</items>
